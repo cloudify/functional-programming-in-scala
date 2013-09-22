@@ -1,4 +1,4 @@
-package io.github.cloudify.scala.funscala
+package io.github.cloudify.scala.fpinscala.ch2
 
 import org.scalatest.WordSpec
 import org.scalatest.matchers.ShouldMatchers
